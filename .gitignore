@@ -1,2 +1,5 @@
-__pycache__
+adegite/adegite/__pycache__
+adegite/adegite/__init__.py
+adegite/adegite/.env
+adegite/db.sqlite3
 env
