@@ -1,2 +1,2 @@
-# Django URLs - Zuri Amin
+# Django URLs - Zuri Task Admin
 
